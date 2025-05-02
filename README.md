@@ -1,4 +1,4 @@
-# KPI Audit Tool
+# KPI Audit Analysis Tool
 
 A powerful AI-powered application that identifies meaningful metrics and eliminates vanity KPIs from your dashboards, helping teams focus on what actually drives business outcomes.
 
